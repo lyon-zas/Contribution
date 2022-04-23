@@ -21,3 +21,4 @@
 ### 4. I wrote a function in the smart contract to add contestants: https://github.com/team-shard/ballot-box/pull/6 
 ### 5. I wrote the functions to connect wallet and integrate the smart contract with the frontend: https://github.com/team-shard/ballot-box/pull/15 
 ### 6. I wrote the functions to register user roles(Board member,teacher,student), adding contestants for the election and connecting to the frontend: https://github.com/team-shard/ballot-box/pull/21 
+### 7: I deployed the contract,built and deployed the DAPP in surge: https://github.com/team-shard/ballot-box/pull/24
